@@ -62,7 +62,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </a> 
     
-![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=harshdeveloper&theme=react-dark&area=true)
 <!--
 **Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
