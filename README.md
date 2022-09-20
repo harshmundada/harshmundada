@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Harsh?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-mundada-838282239/)](https://www.linkedin.com/in/harsh-mundada-838282239/)
+[![Linkedin Badge](https://img.shields.io/badge/-Harsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-mundada-838282239/)](https://www.linkedin.com/in/harsh-mundada-838282239/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Harsh)](https://stackoverflow.com/users/18827061/harsh-mundada)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Harsh-yellow)](https://stackoverflow.com/users/18827061/harsh-mundada)
 
 I'm
 Final Year Engineering Student
@@ -120,12 +120,6 @@ Languages and Tools:
     </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-    </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
