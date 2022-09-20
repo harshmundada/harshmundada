@@ -1,13 +1,14 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://img.shields.io/badge/-Harsh?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-mundada-838282239/)](https://www.linkedin.com/in/harsh-mundada-838282239/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Harsh)](https://stackoverflow.com/users/18827061/harsh-mundada)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Final Year Engineering Student
+The crossover between design and programming has always been of interest to me, I have a wide range of skills that include front-end technologies (Html,Css), programming in java,currently expolring web development.Looking for a challenging position that fully utilizes my skillsand provides me with 
+suitable opportunities to grow my technical skills which help me to grow while 
+working towards the organization's goals.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
